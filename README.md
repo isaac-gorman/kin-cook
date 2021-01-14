@@ -10,7 +10,7 @@ Lambda project I did over the course of 2 seperate team sprints. Below is the po
 
 
 
-## Web App Repo
+## Web App
 [Design](https://www.figma.com/file/dBBWfaro6Lwfonklowheau/kin-cook-web-app?node-id=0%3A1)
 
 [Repo](https://github.com/secret-family-recipes-bwft/front-end/tree/isaac-gorman)
