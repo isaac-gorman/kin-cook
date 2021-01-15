@@ -15,4 +15,4 @@ Lambda project I did over the course of 2 seperate team sprints. Below is the po
 
 [Repo](https://github.com/secret-family-recipes-bwft/front-end/tree/isaac-gorman)
 
-[Deployed Site](https://front-end-ebon.vercel.app/)
+[Deployed App](https://front-end-ebon.vercel.app/)
